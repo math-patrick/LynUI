@@ -1,8 +1,0 @@
-## Interface: 70100
-## Author: Lyn
-## Title: !|cffFFAA00s|r|cffFF00AAw|r|cffAA00FFa|r|cff00AAFFg|r
-## Notes: Changing some stuff like colors, saved variables, etc
-
-colors.lua
-lst.lua
-cc.lua

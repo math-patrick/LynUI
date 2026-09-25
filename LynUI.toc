@@ -1,0 +1,23 @@
+## Interface: 120000, 120001, 120005, 120007, 120100
+## Title: |cff10c5d3Lyn|rUI
+## Notes: Lyn's classic look as a companion to EllesmereUI. Type /lyn for options.
+## Author: Lyn (original), Midnight port
+## Version: 12.1.0
+## OptionalDeps: EllesmereUI, LibSharedMedia-3.0
+## SavedVariables: LynUIDB
+
+Core.lua
+Media.lua
+
+libs\oUF\oUF.xml
+units\Library.lua
+units\Tags.lua
+units\Units.lua
+units\Move.lua
+
+InfoBar.lua
+ActionBars.lua
+Menu.lua
+Chat.lua
+Profile.lua
+Settings.lua
