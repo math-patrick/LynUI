@@ -8,7 +8,7 @@ LynUI Midnight is Lyn's 2016 Legion UI rebuilt as one small companion addon to E
 
 - **Why not a straight port:** the 2016 package bundled 2016 copies of oUF, LiteBag, ls_Toasts, tullaRange and ExtraQuestButton, and almost every API it used is gone. Midnight also hides combat values from addons, so Lyn's old math and chat tricks break.
 - **What was kept:** Lyn's oUF unit frame layout (ported to current oUF), Lyn's fonts and bar textures, the beveled border, the stone strip with gold trim, the race-portrait menu button, and the compact chat lines.
-- **Where it lives:** `World of Warcraft\_retail_\Interface\AddOns\LynUI` in game, and the private GitHub repo `math-patrick/LynUI` as the backup. The original download stays untouched at `Downloads\LynUI_Legion_2016-39`.
+- **Where it lives:** `World of Warcraft\_retail_\Interface\AddOns\LynUI` in game, and the GitHub repo `math-patrick/LynUI` (github.com/math-patrick/LynUI) as the backup. The original download stays untouched at `Downloads\LynUI_Legion_2016-39`.
 
 ## Architecture
 
